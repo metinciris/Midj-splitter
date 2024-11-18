@@ -70,7 +70,7 @@ Four WebP images:
 ## Screenshot
 Below is a sample of the file selection window:
 
-![File Selection Screenshot](https://via.placeholder.com/450)
+![File Selection Screenshot](https://github.com/metinciris/Midj-splitter/blob/main/screen.jpg)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
